@@ -1,0 +1,1745 @@
+[
+    {
+        "c_name": "阿富汗",
+        "e_name": "Afghanistan",
+        "iso_3166_1_alpha_2": "AF",
+        "iso_3166_1_alpha_3": "AFG",
+        "iso_3166_1_numeric": "004"
+    },
+    {
+        "c_name": "奥兰",
+        "e_name": "Åland Islands",
+        "iso_3166_1_alpha_2": "AX",
+        "iso_3166_1_alpha_3": "ALA",
+        "iso_3166_1_numeric": "248"
+    },
+    {
+        "c_name": "阿尔巴尼亚",
+        "e_name": "Albania",
+        "iso_3166_1_alpha_2": "AL",
+        "iso_3166_1_alpha_3": "ALB",
+        "iso_3166_1_numeric": "008"
+    },
+    {
+        "c_name": "阿尔及利亚",
+        "e_name": "Algeria",
+        "iso_3166_1_alpha_2": "DZ",
+        "iso_3166_1_alpha_3": "DZA",
+        "iso_3166_1_numeric": "012"
+    },
+    {
+        "c_name": "美属萨摩亚",
+        "e_name": "American Samoa",
+        "iso_3166_1_alpha_2": "AS",
+        "iso_3166_1_alpha_3": "ASM",
+        "iso_3166_1_numeric": "016"
+    },
+    {
+        "c_name": "安道尔",
+        "e_name": "Andorra",
+        "iso_3166_1_alpha_2": "AD",
+        "iso_3166_1_alpha_3": "AND",
+        "iso_3166_1_numeric": "020"
+    },
+    {
+        "c_name": "安哥拉",
+        "e_name": "Angola",
+        "iso_3166_1_alpha_2": "AO",
+        "iso_3166_1_alpha_3": "AGO",
+        "iso_3166_1_numeric": "024"
+    },
+    {
+        "c_name": "安圭拉",
+        "e_name": "Anguilla",
+        "iso_3166_1_alpha_2": "AI",
+        "iso_3166_1_alpha_3": "AIA",
+        "iso_3166_1_numeric": "660"
+    },
+    {
+        "c_name": "南极洲",
+        "e_name": "Antarctica",
+        "iso_3166_1_alpha_2": "AQ",
+        "iso_3166_1_alpha_3": "ATA",
+        "iso_3166_1_numeric": "010"
+    },
+    {
+        "c_name": "安提瓜和巴布达",
+        "e_name": "Antigua and Barbuda",
+        "iso_3166_1_alpha_2": "AG",
+        "iso_3166_1_alpha_3": "ATG",
+        "iso_3166_1_numeric": "028"
+    },
+    {
+        "c_name": "阿根廷",
+        "e_name": "Argentina",
+        "iso_3166_1_alpha_2": "AR",
+        "iso_3166_1_alpha_3": "ARG",
+        "iso_3166_1_numeric": "032"
+    },
+    {
+        "c_name": "亚美尼亚",
+        "e_name": "Armenia",
+        "iso_3166_1_alpha_2": "AM",
+        "iso_3166_1_alpha_3": "ARM",
+        "iso_3166_1_numeric": "051"
+    },
+    {
+        "c_name": "阿鲁巴",
+        "e_name": "Aruba",
+        "iso_3166_1_alpha_2": "AW",
+        "iso_3166_1_alpha_3": "ABW",
+        "iso_3166_1_numeric": "533"
+    },
+    {
+        "c_name": "澳大利亚",
+        "e_name": "Australia",
+        "iso_3166_1_alpha_2": "AU",
+        "iso_3166_1_alpha_3": "AUS",
+        "iso_3166_1_numeric": "036"
+    },
+    {
+        "c_name": "奥地利",
+        "e_name": "Austria",
+        "iso_3166_1_alpha_2": "AT",
+        "iso_3166_1_alpha_3": "AUT",
+        "iso_3166_1_numeric": "040"
+    },
+    {
+        "c_name": "阿塞拜疆",
+        "e_name": "Azerbaijan",
+        "iso_3166_1_alpha_2": "AZ",
+        "iso_3166_1_alpha_3": "AZE",
+        "iso_3166_1_numeric": "031"
+    },
+    {
+        "c_name": "巴哈马",
+        "e_name": "Bahamas",
+        "iso_3166_1_alpha_2": "BS",
+        "iso_3166_1_alpha_3": "BHS",
+        "iso_3166_1_numeric": "044"
+    },
+    {
+        "c_name": "巴林",
+        "e_name": "Bahrain",
+        "iso_3166_1_alpha_2": "BH",
+        "iso_3166_1_alpha_3": "BHR",
+        "iso_3166_1_numeric": "048"
+    },
+    {
+        "c_name": "孟加拉国",
+        "e_name": "Bangladesh",
+        "iso_3166_1_alpha_2": "BD",
+        "iso_3166_1_alpha_3": "BGD",
+        "iso_3166_1_numeric": "050"
+    },
+    {
+        "c_name": "巴巴多斯",
+        "e_name": "Barbados",
+        "iso_3166_1_alpha_2": "BB",
+        "iso_3166_1_alpha_3": "BRB",
+        "iso_3166_1_numeric": "052"
+    },
+    {
+        "c_name": "白俄罗斯",
+        "e_name": "Belarus",
+        "iso_3166_1_alpha_2": "BY",
+        "iso_3166_1_alpha_3": "BLR",
+        "iso_3166_1_numeric": "112"
+    },
+    {
+        "c_name": "比利时",
+        "e_name": "Belgium",
+        "iso_3166_1_alpha_2": "BE",
+        "iso_3166_1_alpha_3": "BEL",
+        "iso_3166_1_numeric": "056"
+    },
+    {
+        "c_name": "伯利兹",
+        "e_name": "Belize",
+        "iso_3166_1_alpha_2": "BZ",
+        "iso_3166_1_alpha_3": "BLZ",
+        "iso_3166_1_numeric": "084"
+    },
+    {
+        "c_name": "贝宁",
+        "e_name": "Benin",
+        "iso_3166_1_alpha_2": "BJ",
+        "iso_3166_1_alpha_3": "BEN",
+        "iso_3166_1_numeric": "204"
+    },
+    {
+        "c_name": "百慕大",
+        "e_name": "Bermuda",
+        "iso_3166_1_alpha_2": "BM",
+        "iso_3166_1_alpha_3": "BMU",
+        "iso_3166_1_numeric": "060"
+    },
+    {
+        "c_name": "不丹",
+        "e_name": "Bhutan",
+        "iso_3166_1_alpha_2": "BT",
+        "iso_3166_1_alpha_3": "BTN",
+        "iso_3166_1_numeric": "064"
+    },
+    {
+        "c_name": "玻利维亚",
+        "e_name": "Bolivia (Plurinational State of)",
+        "iso_3166_1_alpha_2": "BO",
+        "iso_3166_1_alpha_3": "BOL",
+        "iso_3166_1_numeric": "068"
+    },
+    {
+        "c_name": "荷兰加勒比区",
+        "e_name": "Bonaire, Sint Eustatius and Saba",
+        "iso_3166_1_alpha_2": "BQ",
+        "iso_3166_1_alpha_3": "BES",
+        "iso_3166_1_numeric": "535"
+    },
+    {
+        "c_name": "波黑",
+        "e_name": "Bosnia and Herzegovina",
+        "iso_3166_1_alpha_2": "BA",
+        "iso_3166_1_alpha_3": "BIH",
+        "iso_3166_1_numeric": "070"
+    },
+    {
+        "c_name": "博茨瓦纳",
+        "e_name": "Botswana",
+        "iso_3166_1_alpha_2": "BW",
+        "iso_3166_1_alpha_3": "BWA",
+        "iso_3166_1_numeric": "072"
+    },
+    {
+        "c_name": "布韦岛",
+        "e_name": "Bouvet Island",
+        "iso_3166_1_alpha_2": "BV",
+        "iso_3166_1_alpha_3": "BVT",
+        "iso_3166_1_numeric": "074"
+    },
+    {
+        "c_name": "巴西",
+        "e_name": "Brazil",
+        "iso_3166_1_alpha_2": "BR",
+        "iso_3166_1_alpha_3": "BRA",
+        "iso_3166_1_numeric": "076"
+    },
+    {
+        "c_name": "英属印度洋领地",
+        "e_name": "British Indian Ocean Territory",
+        "iso_3166_1_alpha_2": "IO",
+        "iso_3166_1_alpha_3": "IOT",
+        "iso_3166_1_numeric": "086"
+    },
+    {
+        "c_name": "文莱",
+        "e_name": "Brunei Darussalam",
+        "iso_3166_1_alpha_2": "BN",
+        "iso_3166_1_alpha_3": "BRN",
+        "iso_3166_1_numeric": "096"
+    },
+    {
+        "c_name": "保加利亚",
+        "e_name": "Bulgaria",
+        "iso_3166_1_alpha_2": "BG",
+        "iso_3166_1_alpha_3": "BGR",
+        "iso_3166_1_numeric": "100"
+    },
+    {
+        "c_name": "布基纳法索",
+        "e_name": "Burkina Faso",
+        "iso_3166_1_alpha_2": "BF",
+        "iso_3166_1_alpha_3": "BFA",
+        "iso_3166_1_numeric": "854"
+    },
+    {
+        "c_name": "布隆迪",
+        "e_name": "Burundi",
+        "iso_3166_1_alpha_2": "BI",
+        "iso_3166_1_alpha_3": "BDI",
+        "iso_3166_1_numeric": "108"
+    },
+    {
+        "c_name": "佛得角",
+        "e_name": "Cabo Verde",
+        "iso_3166_1_alpha_2": "CV",
+        "iso_3166_1_alpha_3": "CPV",
+        "iso_3166_1_numeric": "132"
+    },
+    {
+        "c_name": "柬埔寨",
+        "e_name": "Cambodia",
+        "iso_3166_1_alpha_2": "KH",
+        "iso_3166_1_alpha_3": "KHM",
+        "iso_3166_1_numeric": "116"
+    },
+    {
+        "c_name": "喀麦隆",
+        "e_name": "Cameroon",
+        "iso_3166_1_alpha_2": "CM",
+        "iso_3166_1_alpha_3": "CMR",
+        "iso_3166_1_numeric": "120"
+    },
+    {
+        "c_name": "加拿大",
+        "e_name": "Canada",
+        "iso_3166_1_alpha_2": "CA",
+        "iso_3166_1_alpha_3": "CAN",
+        "iso_3166_1_numeric": "124"
+    },
+    {
+        "c_name": "开曼群岛",
+        "e_name": "Cayman Islands",
+        "iso_3166_1_alpha_2": "KY",
+        "iso_3166_1_alpha_3": "CYM",
+        "iso_3166_1_numeric": "136"
+    },
+    {
+        "c_name": "中非",
+        "e_name": "Central African Republic",
+        "iso_3166_1_alpha_2": "CF",
+        "iso_3166_1_alpha_3": "CAF",
+        "iso_3166_1_numeric": "140"
+    },
+    {
+        "c_name": "乍得",
+        "e_name": "Chad",
+        "iso_3166_1_alpha_2": "TD",
+        "iso_3166_1_alpha_3": "TCD",
+        "iso_3166_1_numeric": "148"
+    },
+    {
+        "c_name": "智利",
+        "e_name": "Chile",
+        "iso_3166_1_alpha_2": "CL",
+        "iso_3166_1_alpha_3": "CHL",
+        "iso_3166_1_numeric": "152"
+    },
+    {
+        "c_name": "中国",
+        "e_name": "China",
+        "iso_3166_1_alpha_2": "CN",
+        "iso_3166_1_alpha_3": "CHN",
+        "iso_3166_1_numeric": "156"
+    },
+    {
+        "c_name": "圣诞岛",
+        "e_name": "Christmas Island",
+        "iso_3166_1_alpha_2": "CX",
+        "iso_3166_1_alpha_3": "CXR",
+        "iso_3166_1_numeric": "162"
+    },
+    {
+        "c_name": "科科斯（基林）群岛",
+        "e_name": "Cocos (Keeling) Islands",
+        "iso_3166_1_alpha_2": "CC",
+        "iso_3166_1_alpha_3": "CCK",
+        "iso_3166_1_numeric": "166"
+    },
+    {
+        "c_name": "哥伦比亚",
+        "e_name": "Colombia",
+        "iso_3166_1_alpha_2": "CO",
+        "iso_3166_1_alpha_3": "COL",
+        "iso_3166_1_numeric": "170"
+    },
+    {
+        "c_name": "科摩罗",
+        "e_name": "Comoros",
+        "iso_3166_1_alpha_2": "KM",
+        "iso_3166_1_alpha_3": "COM",
+        "iso_3166_1_numeric": "174"
+    },
+    {
+        "c_name": "刚果共和国",
+        "e_name": "Congo",
+        "iso_3166_1_alpha_2": "CG",
+        "iso_3166_1_alpha_3": "COG",
+        "iso_3166_1_numeric": "178"
+    },
+    {
+        "c_name": "刚果民主共和国",
+        "e_name": "Congo (Democratic Republic of the)",
+        "iso_3166_1_alpha_2": "CD",
+        "iso_3166_1_alpha_3": "COD",
+        "iso_3166_1_numeric": "180"
+    },
+    {
+        "c_name": "库克群岛",
+        "e_name": "Cook Islands",
+        "iso_3166_1_alpha_2": "CK",
+        "iso_3166_1_alpha_3": "COK",
+        "iso_3166_1_numeric": "184"
+    },
+    {
+        "c_name": "哥斯达黎加",
+        "e_name": "Costa Rica",
+        "iso_3166_1_alpha_2": "CR",
+        "iso_3166_1_alpha_3": "CRI",
+        "iso_3166_1_numeric": "188"
+    },
+    {
+        "c_name": "科特迪瓦",
+        "e_name": "Côte d'Ivoire",
+        "iso_3166_1_alpha_2": "CI",
+        "iso_3166_1_alpha_3": "CIV",
+        "iso_3166_1_numeric": "384"
+    },
+    {
+        "c_name": "克罗地亚",
+        "e_name": "Croatia",
+        "iso_3166_1_alpha_2": "HR",
+        "iso_3166_1_alpha_3": "HRV",
+        "iso_3166_1_numeric": "191"
+    },
+    {
+        "c_name": "古巴",
+        "e_name": "Cuba",
+        "iso_3166_1_alpha_2": "CU",
+        "iso_3166_1_alpha_3": "CUB",
+        "iso_3166_1_numeric": "192"
+    },
+    {
+        "c_name": "库拉索",
+        "e_name": "Curacao !Curaçao",
+        "iso_3166_1_alpha_2": "CW",
+        "iso_3166_1_alpha_3": "CUW",
+        "iso_3166_1_numeric": "531"
+    },
+    {
+        "c_name": "塞浦路斯",
+        "e_name": "Cyprus",
+        "iso_3166_1_alpha_2": "CY",
+        "iso_3166_1_alpha_3": "CYP",
+        "iso_3166_1_numeric": "196"
+    },
+    {
+        "c_name": "捷克",
+        "e_name": "Czechia",
+        "iso_3166_1_alpha_2": "CZ",
+        "iso_3166_1_alpha_3": "CZE",
+        "iso_3166_1_numeric": "203"
+    },
+    {
+        "c_name": "丹麦",
+        "e_name": "Denmark",
+        "iso_3166_1_alpha_2": "DK",
+        "iso_3166_1_alpha_3": "DNK",
+        "iso_3166_1_numeric": "208"
+    },
+    {
+        "c_name": "吉布提",
+        "e_name": "Djibouti",
+        "iso_3166_1_alpha_2": "DJ",
+        "iso_3166_1_alpha_3": "DJI",
+        "iso_3166_1_numeric": "262"
+    },
+    {
+        "c_name": "多米尼克",
+        "e_name": "Dominica",
+        "iso_3166_1_alpha_2": "DM",
+        "iso_3166_1_alpha_3": "DMA",
+        "iso_3166_1_numeric": "212"
+    },
+    {
+        "c_name": "多米尼加",
+        "e_name": "Dominican Republic",
+        "iso_3166_1_alpha_2": "DO",
+        "iso_3166_1_alpha_3": "DOM",
+        "iso_3166_1_numeric": "214"
+    },
+    {
+        "c_name": "厄瓜多尔",
+        "e_name": "Ecuador",
+        "iso_3166_1_alpha_2": "EC",
+        "iso_3166_1_alpha_3": "ECU",
+        "iso_3166_1_numeric": "218"
+    },
+    {
+        "c_name": "埃及",
+        "e_name": "Egypt",
+        "iso_3166_1_alpha_2": "EG",
+        "iso_3166_1_alpha_3": "EGY",
+        "iso_3166_1_numeric": "818"
+    },
+    {
+        "c_name": "萨尔瓦多",
+        "e_name": "El Salvador",
+        "iso_3166_1_alpha_2": "SV",
+        "iso_3166_1_alpha_3": "SLV",
+        "iso_3166_1_numeric": "222"
+    },
+    {
+        "c_name": "赤道几内亚",
+        "e_name": "Equatorial Guinea",
+        "iso_3166_1_alpha_2": "GQ",
+        "iso_3166_1_alpha_3": "GNQ",
+        "iso_3166_1_numeric": "226"
+    },
+    {
+        "c_name": "厄立特里亚",
+        "e_name": "Eritrea",
+        "iso_3166_1_alpha_2": "ER",
+        "iso_3166_1_alpha_3": "ERI",
+        "iso_3166_1_numeric": "232"
+    },
+    {
+        "c_name": "爱沙尼亚",
+        "e_name": "Estonia",
+        "iso_3166_1_alpha_2": "EE",
+        "iso_3166_1_alpha_3": "EST",
+        "iso_3166_1_numeric": "233"
+    },
+    {
+        "c_name": "斯威士兰",
+        "e_name": "Eswatini",
+        "iso_3166_1_alpha_2": "SZ",
+        "iso_3166_1_alpha_3": "SWZ",
+        "iso_3166_1_numeric": "748"
+    },
+    {
+        "c_name": "埃塞俄比亚",
+        "e_name": "Ethiopia",
+        "iso_3166_1_alpha_2": "ET",
+        "iso_3166_1_alpha_3": "ETH",
+        "iso_3166_1_numeric": "231"
+    },
+    {
+        "c_name": "福克兰群岛",
+        "e_name": "Falkland Islands (Malvinas)",
+        "iso_3166_1_alpha_2": "FK",
+        "iso_3166_1_alpha_3": "FLK",
+        "iso_3166_1_numeric": "238"
+    },
+    {
+        "c_name": "法罗群岛",
+        "e_name": "Faroe Islands",
+        "iso_3166_1_alpha_2": "FO",
+        "iso_3166_1_alpha_3": "FRO",
+        "iso_3166_1_numeric": "234"
+    },
+    {
+        "c_name": "斐济",
+        "e_name": "Fiji",
+        "iso_3166_1_alpha_2": "FJ",
+        "iso_3166_1_alpha_3": "FJI",
+        "iso_3166_1_numeric": "242"
+    },
+    {
+        "c_name": "芬兰",
+        "e_name": "Finland",
+        "iso_3166_1_alpha_2": "FI",
+        "iso_3166_1_alpha_3": "FIN",
+        "iso_3166_1_numeric": "246"
+    },
+    {
+        "c_name": "法国",
+        "e_name": "France",
+        "iso_3166_1_alpha_2": "FR",
+        "iso_3166_1_alpha_3": "FRA",
+        "iso_3166_1_numeric": "250"
+    },
+    {
+        "c_name": "法属圭亚那",
+        "e_name": "French Guiana",
+        "iso_3166_1_alpha_2": "GF",
+        "iso_3166_1_alpha_3": "GUF",
+        "iso_3166_1_numeric": "254"
+    },
+    {
+        "c_name": "法属波利尼西亚",
+        "e_name": "French Polynesia",
+        "iso_3166_1_alpha_2": "PF",
+        "iso_3166_1_alpha_3": "PYF",
+        "iso_3166_1_numeric": "258"
+    },
+    {
+        "c_name": "法属南部和南极领地",
+        "e_name": "French Southern Territories",
+        "iso_3166_1_alpha_2": "TF",
+        "iso_3166_1_alpha_3": "ATF",
+        "iso_3166_1_numeric": "260"
+    },
+    {
+        "c_name": "加蓬",
+        "e_name": "Gabon",
+        "iso_3166_1_alpha_2": "GA",
+        "iso_3166_1_alpha_3": "GAB",
+        "iso_3166_1_numeric": "266"
+    },
+    {
+        "c_name": "冈比亚",
+        "e_name": "Gambia",
+        "iso_3166_1_alpha_2": "GM",
+        "iso_3166_1_alpha_3": "GMB",
+        "iso_3166_1_numeric": "270"
+    },
+    {
+        "c_name": "格鲁吉亚",
+        "e_name": "Georgia",
+        "iso_3166_1_alpha_2": "GE",
+        "iso_3166_1_alpha_3": "GEO",
+        "iso_3166_1_numeric": "268"
+    },
+    {
+        "c_name": "德国",
+        "e_name": "Germany",
+        "iso_3166_1_alpha_2": "DE",
+        "iso_3166_1_alpha_3": "DEU",
+        "iso_3166_1_numeric": "276"
+    },
+    {
+        "c_name": "加纳",
+        "e_name": "Ghana",
+        "iso_3166_1_alpha_2": "GH",
+        "iso_3166_1_alpha_3": "GHA",
+        "iso_3166_1_numeric": "288"
+    },
+    {
+        "c_name": "直布罗陀",
+        "e_name": "Gibraltar",
+        "iso_3166_1_alpha_2": "GI",
+        "iso_3166_1_alpha_3": "GIB",
+        "iso_3166_1_numeric": "292"
+    },
+    {
+        "c_name": "希腊",
+        "e_name": "Greece",
+        "iso_3166_1_alpha_2": "GR",
+        "iso_3166_1_alpha_3": "GRC",
+        "iso_3166_1_numeric": "300"
+    },
+    {
+        "c_name": "格陵兰",
+        "e_name": "Greenland",
+        "iso_3166_1_alpha_2": "GL",
+        "iso_3166_1_alpha_3": "GRL",
+        "iso_3166_1_numeric": "304"
+    },
+    {
+        "c_name": "格林纳达",
+        "e_name": "Grenada",
+        "iso_3166_1_alpha_2": "GD",
+        "iso_3166_1_alpha_3": "GRD",
+        "iso_3166_1_numeric": "308"
+    },
+    {
+        "c_name": "瓜德罗普",
+        "e_name": "Guadeloupe",
+        "iso_3166_1_alpha_2": "GP",
+        "iso_3166_1_alpha_3": "GLP",
+        "iso_3166_1_numeric": "312"
+    },
+    {
+        "c_name": "关岛",
+        "e_name": "Guam",
+        "iso_3166_1_alpha_2": "GU",
+        "iso_3166_1_alpha_3": "GUM",
+        "iso_3166_1_numeric": "316"
+    },
+    {
+        "c_name": "危地马拉",
+        "e_name": "Guatemala",
+        "iso_3166_1_alpha_2": "GT",
+        "iso_3166_1_alpha_3": "GTM",
+        "iso_3166_1_numeric": "320"
+    },
+    {
+        "c_name": "根西",
+        "e_name": "Guernsey",
+        "iso_3166_1_alpha_2": "GG",
+        "iso_3166_1_alpha_3": "GGY",
+        "iso_3166_1_numeric": "831"
+    },
+    {
+        "c_name": "几内亚",
+        "e_name": "Guinea",
+        "iso_3166_1_alpha_2": "GN",
+        "iso_3166_1_alpha_3": "GIN",
+        "iso_3166_1_numeric": "324"
+    },
+    {
+        "c_name": "几内亚比绍",
+        "e_name": "Guinea-Bissau",
+        "iso_3166_1_alpha_2": "GW",
+        "iso_3166_1_alpha_3": "GNB",
+        "iso_3166_1_numeric": "624"
+    },
+    {
+        "c_name": "圭亚那",
+        "e_name": "Guyana",
+        "iso_3166_1_alpha_2": "GY",
+        "iso_3166_1_alpha_3": "GUY",
+        "iso_3166_1_numeric": "328"
+    },
+    {
+        "c_name": "海地",
+        "e_name": "Haiti",
+        "iso_3166_1_alpha_2": "HT",
+        "iso_3166_1_alpha_3": "HTI",
+        "iso_3166_1_numeric": "332"
+    },
+    {
+        "c_name": "赫德岛和麦克唐纳群岛",
+        "e_name": "Heard Island and McDonald Islands",
+        "iso_3166_1_alpha_2": "HM",
+        "iso_3166_1_alpha_3": "HMD",
+        "iso_3166_1_numeric": "334"
+    },
+    {
+        "c_name": "梵蒂冈",
+        "e_name": "Holy See",
+        "iso_3166_1_alpha_2": "VA",
+        "iso_3166_1_alpha_3": "VAT",
+        "iso_3166_1_numeric": "336"
+    },
+    {
+        "c_name": "洪都拉斯",
+        "e_name": "Honduras",
+        "iso_3166_1_alpha_2": "HN",
+        "iso_3166_1_alpha_3": "HND",
+        "iso_3166_1_numeric": "340"
+    },
+    {
+        "c_name": "香港",
+        "e_name": "Hong Kong",
+        "iso_3166_1_alpha_2": "HK",
+        "iso_3166_1_alpha_3": "HKG",
+        "iso_3166_1_numeric": "344"
+    },
+    {
+        "c_name": "匈牙利",
+        "e_name": "Hungary",
+        "iso_3166_1_alpha_2": "HU",
+        "iso_3166_1_alpha_3": "HUN",
+        "iso_3166_1_numeric": "348"
+    },
+    {
+        "c_name": "冰岛",
+        "e_name": "Iceland",
+        "iso_3166_1_alpha_2": "IS",
+        "iso_3166_1_alpha_3": "ISL",
+        "iso_3166_1_numeric": "352"
+    },
+    {
+        "c_name": "印度",
+        "e_name": "India",
+        "iso_3166_1_alpha_2": "IN",
+        "iso_3166_1_alpha_3": "IND",
+        "iso_3166_1_numeric": "356"
+    },
+    {
+        "c_name": "印尼",
+        "e_name": "Indonesia",
+        "iso_3166_1_alpha_2": "ID",
+        "iso_3166_1_alpha_3": "IDN",
+        "iso_3166_1_numeric": "360"
+    },
+    {
+        "c_name": "伊朗",
+        "e_name": "Iran (Islamic Republic of)",
+        "iso_3166_1_alpha_2": "IR",
+        "iso_3166_1_alpha_3": "IRN",
+        "iso_3166_1_numeric": "364"
+    },
+    {
+        "c_name": "伊拉克",
+        "e_name": "Iraq",
+        "iso_3166_1_alpha_2": "IQ",
+        "iso_3166_1_alpha_3": "IRQ",
+        "iso_3166_1_numeric": "368"
+    },
+    {
+        "c_name": "爱尔兰",
+        "e_name": "Ireland",
+        "iso_3166_1_alpha_2": "IE",
+        "iso_3166_1_alpha_3": "IRL",
+        "iso_3166_1_numeric": "372"
+    },
+    {
+        "c_name": "马恩岛",
+        "e_name": "Isle of Man",
+        "iso_3166_1_alpha_2": "IM",
+        "iso_3166_1_alpha_3": "IMN",
+        "iso_3166_1_numeric": "833"
+    },
+    {
+        "c_name": "以色列",
+        "e_name": "Israel",
+        "iso_3166_1_alpha_2": "IL",
+        "iso_3166_1_alpha_3": "ISR",
+        "iso_3166_1_numeric": "376"
+    },
+    {
+        "c_name": "意大利",
+        "e_name": "Italy",
+        "iso_3166_1_alpha_2": "IT",
+        "iso_3166_1_alpha_3": "ITA",
+        "iso_3166_1_numeric": "380"
+    },
+    {
+        "c_name": "牙买加",
+        "e_name": "Jamaica",
+        "iso_3166_1_alpha_2": "JM",
+        "iso_3166_1_alpha_3": "JAM",
+        "iso_3166_1_numeric": "388"
+    },
+    {
+        "c_name": "日本",
+        "e_name": "Japan",
+        "iso_3166_1_alpha_2": "JP",
+        "iso_3166_1_alpha_3": "JPN",
+        "iso_3166_1_numeric": "392"
+    },
+    {
+        "c_name": "泽西",
+        "e_name": "Jersey",
+        "iso_3166_1_alpha_2": "JE",
+        "iso_3166_1_alpha_3": "JEY",
+        "iso_3166_1_numeric": "832"
+    },
+    {
+        "c_name": "约旦",
+        "e_name": "Jordan",
+        "iso_3166_1_alpha_2": "JO",
+        "iso_3166_1_alpha_3": "JOR",
+        "iso_3166_1_numeric": "400"
+    },
+    {
+        "c_name": "哈萨克斯坦",
+        "e_name": "Kazakhstan",
+        "iso_3166_1_alpha_2": "KZ",
+        "iso_3166_1_alpha_3": "KAZ",
+        "iso_3166_1_numeric": "398"
+    },
+    {
+        "c_name": "肯尼亚",
+        "e_name": "Kenya",
+        "iso_3166_1_alpha_2": "KE",
+        "iso_3166_1_alpha_3": "KEN",
+        "iso_3166_1_numeric": "404"
+    },
+    {
+        "c_name": "基里巴斯",
+        "e_name": "Kiribati",
+        "iso_3166_1_alpha_2": "KI",
+        "iso_3166_1_alpha_3": "KIR",
+        "iso_3166_1_numeric": "296"
+    },
+    {
+        "c_name": "朝鲜",
+        "e_name": "Korea (Democratic People's Republic of)",
+        "iso_3166_1_alpha_2": "KP",
+        "iso_3166_1_alpha_3": "PRK",
+        "iso_3166_1_numeric": "408"
+    },
+    {
+        "c_name": "韩国",
+        "e_name": "Korea (Republic of)",
+        "iso_3166_1_alpha_2": "KR",
+        "iso_3166_1_alpha_3": "KOR",
+        "iso_3166_1_numeric": "410"
+    },
+    {
+        "c_name": "科威特",
+        "e_name": "Kuwait",
+        "iso_3166_1_alpha_2": "KW",
+        "iso_3166_1_alpha_3": "KWT",
+        "iso_3166_1_numeric": "414"
+    },
+    {
+        "c_name": "吉尔吉斯斯坦",
+        "e_name": "Kyrgyzstan",
+        "iso_3166_1_alpha_2": "KG",
+        "iso_3166_1_alpha_3": "KGZ",
+        "iso_3166_1_numeric": "417"
+    },
+    {
+        "c_name": "老挝",
+        "e_name": "Lao People's Democratic Republic",
+        "iso_3166_1_alpha_2": "LA",
+        "iso_3166_1_alpha_3": "LAO",
+        "iso_3166_1_numeric": "418"
+    },
+    {
+        "c_name": "拉脱维亚",
+        "e_name": "Latvia",
+        "iso_3166_1_alpha_2": "LV",
+        "iso_3166_1_alpha_3": "LVA",
+        "iso_3166_1_numeric": "428"
+    },
+    {
+        "c_name": "黎巴嫩",
+        "e_name": "Lebanon",
+        "iso_3166_1_alpha_2": "LB",
+        "iso_3166_1_alpha_3": "LBN",
+        "iso_3166_1_numeric": "422"
+    },
+    {
+        "c_name": "莱索托",
+        "e_name": "Lesotho",
+        "iso_3166_1_alpha_2": "LS",
+        "iso_3166_1_alpha_3": "LSO",
+        "iso_3166_1_numeric": "426"
+    },
+    {
+        "c_name": "利比里亚",
+        "e_name": "Liberia",
+        "iso_3166_1_alpha_2": "LR",
+        "iso_3166_1_alpha_3": "LBR",
+        "iso_3166_1_numeric": "430"
+    },
+    {
+        "c_name": "利比亚",
+        "e_name": "Libya",
+        "iso_3166_1_alpha_2": "LY",
+        "iso_3166_1_alpha_3": "LBY",
+        "iso_3166_1_numeric": "434"
+    },
+    {
+        "c_name": "列支敦士登",
+        "e_name": "Liechtenstein",
+        "iso_3166_1_alpha_2": "LI",
+        "iso_3166_1_alpha_3": "LIE",
+        "iso_3166_1_numeric": "438"
+    },
+    {
+        "c_name": "立陶宛",
+        "e_name": "Lithuania",
+        "iso_3166_1_alpha_2": "LT",
+        "iso_3166_1_alpha_3": "LTU",
+        "iso_3166_1_numeric": "440"
+    },
+    {
+        "c_name": "卢森堡",
+        "e_name": "Luxembourg",
+        "iso_3166_1_alpha_2": "LU",
+        "iso_3166_1_alpha_3": "LUX",
+        "iso_3166_1_numeric": "442"
+    },
+    {
+        "c_name": "澳门",
+        "e_name": "Macao",
+        "iso_3166_1_alpha_2": "MO",
+        "iso_3166_1_alpha_3": "MAC",
+        "iso_3166_1_numeric": "446"
+    },
+    {
+        "c_name": "马达加斯加",
+        "e_name": "Madagascar",
+        "iso_3166_1_alpha_2": "MG",
+        "iso_3166_1_alpha_3": "MDG",
+        "iso_3166_1_numeric": "450"
+    },
+    {
+        "c_name": "马拉维",
+        "e_name": "Malawi",
+        "iso_3166_1_alpha_2": "MW",
+        "iso_3166_1_alpha_3": "MWI",
+        "iso_3166_1_numeric": "454"
+    },
+    {
+        "c_name": "马来西亚",
+        "e_name": "Malaysia",
+        "iso_3166_1_alpha_2": "MY",
+        "iso_3166_1_alpha_3": "MYS",
+        "iso_3166_1_numeric": "458"
+    },
+    {
+        "c_name": "马尔代夫",
+        "e_name": "Maldives",
+        "iso_3166_1_alpha_2": "MV",
+        "iso_3166_1_alpha_3": "MDV",
+        "iso_3166_1_numeric": "462"
+    },
+    {
+        "c_name": "马里",
+        "e_name": "Mali",
+        "iso_3166_1_alpha_2": "ML",
+        "iso_3166_1_alpha_3": "MLI",
+        "iso_3166_1_numeric": "466"
+    },
+    {
+        "c_name": "马耳他",
+        "e_name": "Malta",
+        "iso_3166_1_alpha_2": "MT",
+        "iso_3166_1_alpha_3": "MLT",
+        "iso_3166_1_numeric": "470"
+    },
+    {
+        "c_name": "马绍尔群岛",
+        "e_name": "Marshall Islands",
+        "iso_3166_1_alpha_2": "MH",
+        "iso_3166_1_alpha_3": "MHL",
+        "iso_3166_1_numeric": "584"
+    },
+    {
+        "c_name": "马提尼克",
+        "e_name": "Martinique",
+        "iso_3166_1_alpha_2": "MQ",
+        "iso_3166_1_alpha_3": "MTQ",
+        "iso_3166_1_numeric": "474"
+    },
+    {
+        "c_name": "毛里塔尼亚",
+        "e_name": "Mauritania",
+        "iso_3166_1_alpha_2": "MR",
+        "iso_3166_1_alpha_3": "MRT",
+        "iso_3166_1_numeric": "478"
+    },
+    {
+        "c_name": "毛里求斯",
+        "e_name": "Mauritius",
+        "iso_3166_1_alpha_2": "MU",
+        "iso_3166_1_alpha_3": "MUS",
+        "iso_3166_1_numeric": "480"
+    },
+    {
+        "c_name": "马约特",
+        "e_name": "Mayotte",
+        "iso_3166_1_alpha_2": "YT",
+        "iso_3166_1_alpha_3": "MYT",
+        "iso_3166_1_numeric": "175"
+    },
+    {
+        "c_name": "墨西哥",
+        "e_name": "Mexico",
+        "iso_3166_1_alpha_2": "MX",
+        "iso_3166_1_alpha_3": "MEX",
+        "iso_3166_1_numeric": "484"
+    },
+    {
+        "c_name": "密克罗尼西亚联邦",
+        "e_name": "Micronesia (Federated States of)",
+        "iso_3166_1_alpha_2": "FM",
+        "iso_3166_1_alpha_3": "FSM",
+        "iso_3166_1_numeric": "583"
+    },
+    {
+        "c_name": "摩尔多瓦",
+        "e_name": "Moldova (Republic of)",
+        "iso_3166_1_alpha_2": "MD",
+        "iso_3166_1_alpha_3": "MDA",
+        "iso_3166_1_numeric": "498"
+    },
+    {
+        "c_name": "摩纳哥",
+        "e_name": "Monaco",
+        "iso_3166_1_alpha_2": "MC",
+        "iso_3166_1_alpha_3": "MCO",
+        "iso_3166_1_numeric": "492"
+    },
+    {
+        "c_name": "蒙古",
+        "e_name": "Mongolia",
+        "iso_3166_1_alpha_2": "MN",
+        "iso_3166_1_alpha_3": "MNG",
+        "iso_3166_1_numeric": "496"
+    },
+    {
+        "c_name": "黑山",
+        "e_name": "Montenegro",
+        "iso_3166_1_alpha_2": "ME",
+        "iso_3166_1_alpha_3": "MNE",
+        "iso_3166_1_numeric": "499"
+    },
+    {
+        "c_name": "蒙特塞拉特",
+        "e_name": "Montserrat",
+        "iso_3166_1_alpha_2": "MS",
+        "iso_3166_1_alpha_3": "MSR",
+        "iso_3166_1_numeric": "500"
+    },
+    {
+        "c_name": "摩洛哥",
+        "e_name": "Morocco",
+        "iso_3166_1_alpha_2": "MA",
+        "iso_3166_1_alpha_3": "MAR",
+        "iso_3166_1_numeric": "504"
+    },
+    {
+        "c_name": "莫桑比克",
+        "e_name": "Mozambique",
+        "iso_3166_1_alpha_2": "MZ",
+        "iso_3166_1_alpha_3": "MOZ",
+        "iso_3166_1_numeric": "508"
+    },
+    {
+        "c_name": "缅甸",
+        "e_name": "Myanmar",
+        "iso_3166_1_alpha_2": "MM",
+        "iso_3166_1_alpha_3": "MMR",
+        "iso_3166_1_numeric": "104"
+    },
+    {
+        "c_name": "纳米比亚",
+        "e_name": "Namibia",
+        "iso_3166_1_alpha_2": "NA",
+        "iso_3166_1_alpha_3": "NAM",
+        "iso_3166_1_numeric": "516"
+    },
+    {
+        "c_name": "瑙鲁",
+        "e_name": "Nauru",
+        "iso_3166_1_alpha_2": "NR",
+        "iso_3166_1_alpha_3": "NRU",
+        "iso_3166_1_numeric": "520"
+    },
+    {
+        "c_name": "尼泊尔",
+        "e_name": "Nepal",
+        "iso_3166_1_alpha_2": "NP",
+        "iso_3166_1_alpha_3": "NPL",
+        "iso_3166_1_numeric": "524"
+    },
+    {
+        "c_name": "荷兰",
+        "e_name": "Netherlands",
+        "iso_3166_1_alpha_2": "NL",
+        "iso_3166_1_alpha_3": "NLD",
+        "iso_3166_1_numeric": "528"
+    },
+    {
+        "c_name": "新喀里多尼亚",
+        "e_name": "New Caledonia",
+        "iso_3166_1_alpha_2": "NC",
+        "iso_3166_1_alpha_3": "NCL",
+        "iso_3166_1_numeric": "540"
+    },
+    {
+        "c_name": "新西兰",
+        "e_name": "New Zealand",
+        "iso_3166_1_alpha_2": "NZ",
+        "iso_3166_1_alpha_3": "NZL",
+        "iso_3166_1_numeric": "554"
+    },
+    {
+        "c_name": "尼加拉瓜",
+        "e_name": "Nicaragua",
+        "iso_3166_1_alpha_2": "NI",
+        "iso_3166_1_alpha_3": "NIC",
+        "iso_3166_1_numeric": "558"
+    },
+    {
+        "c_name": "尼日尔",
+        "e_name": "Niger",
+        "iso_3166_1_alpha_2": "NE",
+        "iso_3166_1_alpha_3": "NER",
+        "iso_3166_1_numeric": "562"
+    },
+    {
+        "c_name": "尼日利亚",
+        "e_name": "Nigeria",
+        "iso_3166_1_alpha_2": "NG",
+        "iso_3166_1_alpha_3": "NGA",
+        "iso_3166_1_numeric": "566"
+    },
+    {
+        "c_name": "纽埃",
+        "e_name": "Niue",
+        "iso_3166_1_alpha_2": "NU",
+        "iso_3166_1_alpha_3": "NIU",
+        "iso_3166_1_numeric": "570"
+    },
+    {
+        "c_name": "诺福克岛",
+        "e_name": "Norfolk Island",
+        "iso_3166_1_alpha_2": "NF",
+        "iso_3166_1_alpha_3": "NFK",
+        "iso_3166_1_numeric": "574"
+    },
+    {
+        "c_name": "北马其顿",
+        "e_name": "North Macedonia",
+        "iso_3166_1_alpha_2": "MK",
+        "iso_3166_1_alpha_3": "MKD",
+        "iso_3166_1_numeric": "807"
+    },
+    {
+        "c_name": "北马里亚纳群岛",
+        "e_name": "Northern Mariana Islands",
+        "iso_3166_1_alpha_2": "MP",
+        "iso_3166_1_alpha_3": "MNP",
+        "iso_3166_1_numeric": "580"
+    },
+    {
+        "c_name": "挪威",
+        "e_name": "Norway",
+        "iso_3166_1_alpha_2": "NO",
+        "iso_3166_1_alpha_3": "NOR",
+        "iso_3166_1_numeric": "578"
+    },
+    {
+        "c_name": "阿曼",
+        "e_name": "Oman",
+        "iso_3166_1_alpha_2": "OM",
+        "iso_3166_1_alpha_3": "OMN",
+        "iso_3166_1_numeric": "512"
+    },
+    {
+        "c_name": "巴基斯坦",
+        "e_name": "Pakistan",
+        "iso_3166_1_alpha_2": "PK",
+        "iso_3166_1_alpha_3": "PAK",
+        "iso_3166_1_numeric": "586"
+    },
+    {
+        "c_name": "帕劳",
+        "e_name": "Palau",
+        "iso_3166_1_alpha_2": "PW",
+        "iso_3166_1_alpha_3": "PLW",
+        "iso_3166_1_numeric": "585"
+    },
+    {
+        "c_name": "巴勒斯坦",
+        "e_name": "Palestine, State of",
+        "iso_3166_1_alpha_2": "PS",
+        "iso_3166_1_alpha_3": "PSE",
+        "iso_3166_1_numeric": "275"
+    },
+    {
+        "c_name": "巴拿马",
+        "e_name": "Panama",
+        "iso_3166_1_alpha_2": "PA",
+        "iso_3166_1_alpha_3": "PAN",
+        "iso_3166_1_numeric": "591"
+    },
+    {
+        "c_name": "巴布亚新几内亚",
+        "e_name": "Papua New Guinea",
+        "iso_3166_1_alpha_2": "PG",
+        "iso_3166_1_alpha_3": "PNG",
+        "iso_3166_1_numeric": "598"
+    },
+    {
+        "c_name": "巴拉圭",
+        "e_name": "Paraguay",
+        "iso_3166_1_alpha_2": "PY",
+        "iso_3166_1_alpha_3": "PRY",
+        "iso_3166_1_numeric": "600"
+    },
+    {
+        "c_name": "秘鲁",
+        "e_name": "Peru",
+        "iso_3166_1_alpha_2": "PE",
+        "iso_3166_1_alpha_3": "PER",
+        "iso_3166_1_numeric": "604"
+    },
+    {
+        "c_name": "菲律宾",
+        "e_name": "Philippines",
+        "iso_3166_1_alpha_2": "PH",
+        "iso_3166_1_alpha_3": "PHL",
+        "iso_3166_1_numeric": "608"
+    },
+    {
+        "c_name": "皮特凯恩群岛",
+        "e_name": "Pitcairn",
+        "iso_3166_1_alpha_2": "PN",
+        "iso_3166_1_alpha_3": "PCN",
+        "iso_3166_1_numeric": "612"
+    },
+    {
+        "c_name": "波兰",
+        "e_name": "Poland",
+        "iso_3166_1_alpha_2": "PL",
+        "iso_3166_1_alpha_3": "POL",
+        "iso_3166_1_numeric": "616"
+    },
+    {
+        "c_name": "葡萄牙",
+        "e_name": "Portugal",
+        "iso_3166_1_alpha_2": "PT",
+        "iso_3166_1_alpha_3": "PRT",
+        "iso_3166_1_numeric": "620"
+    },
+    {
+        "c_name": "波多黎各",
+        "e_name": "Puerto Rico",
+        "iso_3166_1_alpha_2": "PR",
+        "iso_3166_1_alpha_3": "PRI",
+        "iso_3166_1_numeric": "630"
+    },
+    {
+        "c_name": "卡塔尔",
+        "e_name": "Qatar",
+        "iso_3166_1_alpha_2": "QA",
+        "iso_3166_1_alpha_3": "QAT",
+        "iso_3166_1_numeric": "634"
+    },
+    {
+        "c_name": "留尼汪",
+        "e_name": "Réunion",
+        "iso_3166_1_alpha_2": "RE",
+        "iso_3166_1_alpha_3": "REU",
+        "iso_3166_1_numeric": "638"
+    },
+    {
+        "c_name": "罗马尼亚",
+        "e_name": "Romania",
+        "iso_3166_1_alpha_2": "RO",
+        "iso_3166_1_alpha_3": "ROU",
+        "iso_3166_1_numeric": "642"
+    },
+    {
+        "c_name": "俄罗斯",
+        "e_name": "Russian Federation",
+        "iso_3166_1_alpha_2": "RU",
+        "iso_3166_1_alpha_3": "RUS",
+        "iso_3166_1_numeric": "643"
+    },
+    {
+        "c_name": "卢旺达",
+        "e_name": "Rwanda",
+        "iso_3166_1_alpha_2": "RW",
+        "iso_3166_1_alpha_3": "RWA",
+        "iso_3166_1_numeric": "646"
+    },
+    {
+        "c_name": "圣巴泰勒米",
+        "e_name": "Saint Barthélemy",
+        "iso_3166_1_alpha_2": "BL",
+        "iso_3166_1_alpha_3": "BLM",
+        "iso_3166_1_numeric": "652"
+    },
+    {
+        "c_name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+        "e_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "iso_3166_1_alpha_2": "SH",
+        "iso_3166_1_alpha_3": "SHN",
+        "iso_3166_1_numeric": "654"
+    },
+    {
+        "c_name": "圣基茨和尼维斯",
+        "e_name": "Saint Kitts and Nevis",
+        "iso_3166_1_alpha_2": "KN",
+        "iso_3166_1_alpha_3": "KNA",
+        "iso_3166_1_numeric": "659"
+    },
+    {
+        "c_name": "圣卢西亚",
+        "e_name": "Saint Lucia",
+        "iso_3166_1_alpha_2": "LC",
+        "iso_3166_1_alpha_3": "LCA",
+        "iso_3166_1_numeric": "662"
+    },
+    {
+        "c_name": "法属圣马丁",
+        "e_name": "Saint Martin (French part)",
+        "iso_3166_1_alpha_2": "MF",
+        "iso_3166_1_alpha_3": "MAF",
+        "iso_3166_1_numeric": "663"
+    },
+    {
+        "c_name": "圣皮埃尔和密克隆",
+        "e_name": "Saint Pierre and Miquelon",
+        "iso_3166_1_alpha_2": "PM",
+        "iso_3166_1_alpha_3": "SPM",
+        "iso_3166_1_numeric": "666"
+    },
+    {
+        "c_name": "圣文森特和格林纳丁斯",
+        "e_name": "Saint Vincent and the Grenadines",
+        "iso_3166_1_alpha_2": "VC",
+        "iso_3166_1_alpha_3": "VCT",
+        "iso_3166_1_numeric": "670"
+    },
+    {
+        "c_name": "萨摩亚",
+        "e_name": "Samoa",
+        "iso_3166_1_alpha_2": "WS",
+        "iso_3166_1_alpha_3": "WSM",
+        "iso_3166_1_numeric": "882"
+    },
+    {
+        "c_name": "圣马力诺",
+        "e_name": "San Marino",
+        "iso_3166_1_alpha_2": "SM",
+        "iso_3166_1_alpha_3": "SMR",
+        "iso_3166_1_numeric": "674"
+    },
+    {
+        "c_name": "圣多美和普林西比",
+        "e_name": "Sao Tome and Principe",
+        "iso_3166_1_alpha_2": "ST",
+        "iso_3166_1_alpha_3": "STP",
+        "iso_3166_1_numeric": "678"
+    },
+    {
+        "c_name": "沙特阿拉伯",
+        "e_name": "Saudi Arabia",
+        "iso_3166_1_alpha_2": "SA",
+        "iso_3166_1_alpha_3": "SAU",
+        "iso_3166_1_numeric": "682"
+    },
+    {
+        "c_name": "塞内加尔",
+        "e_name": "Senegal",
+        "iso_3166_1_alpha_2": "SN",
+        "iso_3166_1_alpha_3": "SEN",
+        "iso_3166_1_numeric": "686"
+    },
+    {
+        "c_name": "塞尔维亚",
+        "e_name": "Serbia",
+        "iso_3166_1_alpha_2": "RS",
+        "iso_3166_1_alpha_3": "SRB",
+        "iso_3166_1_numeric": "688"
+    },
+    {
+        "c_name": "塞舌尔",
+        "e_name": "Seychelles",
+        "iso_3166_1_alpha_2": "SC",
+        "iso_3166_1_alpha_3": "SYC",
+        "iso_3166_1_numeric": "690"
+    },
+    {
+        "c_name": "塞拉利昂",
+        "e_name": "Sierra Leone",
+        "iso_3166_1_alpha_2": "SL",
+        "iso_3166_1_alpha_3": "SLE",
+        "iso_3166_1_numeric": "694"
+    },
+    {
+        "c_name": "新加坡",
+        "e_name": "Singapore",
+        "iso_3166_1_alpha_2": "SG",
+        "iso_3166_1_alpha_3": "SGP",
+        "iso_3166_1_numeric": "702"
+    },
+    {
+        "c_name": "荷属圣马丁",
+        "e_name": "Sint Maarten (Dutch part)",
+        "iso_3166_1_alpha_2": "SX",
+        "iso_3166_1_alpha_3": "SXM",
+        "iso_3166_1_numeric": "534"
+    },
+    {
+        "c_name": "斯洛伐克",
+        "e_name": "Slovakia",
+        "iso_3166_1_alpha_2": "SK",
+        "iso_3166_1_alpha_3": "SVK",
+        "iso_3166_1_numeric": "703"
+    },
+    {
+        "c_name": "斯洛文尼亚",
+        "e_name": "Slovenia",
+        "iso_3166_1_alpha_2": "SI",
+        "iso_3166_1_alpha_3": "SVN",
+        "iso_3166_1_numeric": "705"
+    },
+    {
+        "c_name": "所罗门群岛",
+        "e_name": "Solomon Islands",
+        "iso_3166_1_alpha_2": "SB",
+        "iso_3166_1_alpha_3": "SLB",
+        "iso_3166_1_numeric": "090"
+    },
+    {
+        "c_name": "索马里",
+        "e_name": "Somalia",
+        "iso_3166_1_alpha_2": "SO",
+        "iso_3166_1_alpha_3": "SOM",
+        "iso_3166_1_numeric": "706"
+    },
+    {
+        "c_name": "南非",
+        "e_name": "South Africa",
+        "iso_3166_1_alpha_2": "ZA",
+        "iso_3166_1_alpha_3": "ZAF",
+        "iso_3166_1_numeric": "710"
+    },
+    {
+        "c_name": "南乔治亚和南桑威奇群岛",
+        "e_name": "South Georgia and the South Sandwich Islands",
+        "iso_3166_1_alpha_2": "GS",
+        "iso_3166_1_alpha_3": "SGS",
+        "iso_3166_1_numeric": "239"
+    },
+    {
+        "c_name": "南苏丹",
+        "e_name": "South Sudan",
+        "iso_3166_1_alpha_2": "SS",
+        "iso_3166_1_alpha_3": "SSD",
+        "iso_3166_1_numeric": "728"
+    },
+    {
+        "c_name": "西班牙",
+        "e_name": "Spain",
+        "iso_3166_1_alpha_2": "ES",
+        "iso_3166_1_alpha_3": "ESP",
+        "iso_3166_1_numeric": "724"
+    },
+    {
+        "c_name": "斯里兰卡",
+        "e_name": "Sri Lanka",
+        "iso_3166_1_alpha_2": "LK",
+        "iso_3166_1_alpha_3": "LKA",
+        "iso_3166_1_numeric": "144"
+    },
+    {
+        "c_name": "苏丹",
+        "e_name": "Sudan",
+        "iso_3166_1_alpha_2": "SD",
+        "iso_3166_1_alpha_3": "SDN",
+        "iso_3166_1_numeric": "729"
+    },
+    {
+        "c_name": "苏里南",
+        "e_name": "Suriname",
+        "iso_3166_1_alpha_2": "SR",
+        "iso_3166_1_alpha_3": "SUR",
+        "iso_3166_1_numeric": "740"
+    },
+    {
+        "c_name": "斯瓦尔巴和扬马延",
+        "e_name": "Svalbard and Jan Mayen",
+        "iso_3166_1_alpha_2": "SJ",
+        "iso_3166_1_alpha_3": "SJM",
+        "iso_3166_1_numeric": "744"
+    },
+    {
+        "c_name": "瑞典",
+        "e_name": "Sweden",
+        "iso_3166_1_alpha_2": "SE",
+        "iso_3166_1_alpha_3": "SWE",
+        "iso_3166_1_numeric": "752"
+    },
+    {
+        "c_name": "瑞士",
+        "e_name": "Switzerland",
+        "iso_3166_1_alpha_2": "CH",
+        "iso_3166_1_alpha_3": "CHE",
+        "iso_3166_1_numeric": "756"
+    },
+    {
+        "c_name": "叙利亚",
+        "e_name": "Syrian Arab Republic",
+        "iso_3166_1_alpha_2": "SY",
+        "iso_3166_1_alpha_3": "SYR",
+        "iso_3166_1_numeric": "760"
+    },
+    {
+        "c_name": "中国台湾省",
+        "e_name": "Taiwan, Province of China[note 1]",
+        "iso_3166_1_alpha_2": "TW",
+        "iso_3166_1_alpha_3": "TWN",
+        "iso_3166_1_numeric": "158"
+    },
+    {
+        "c_name": "塔吉克斯坦",
+        "e_name": "Tajikistan",
+        "iso_3166_1_alpha_2": "TJ",
+        "iso_3166_1_alpha_3": "TJK",
+        "iso_3166_1_numeric": "762"
+    },
+    {
+        "c_name": "坦桑尼亚",
+        "e_name": "Tanzania, United Republic of",
+        "iso_3166_1_alpha_2": "TZ",
+        "iso_3166_1_alpha_3": "TZA",
+        "iso_3166_1_numeric": "834"
+    },
+    {
+        "c_name": "泰国",
+        "e_name": "Thailand",
+        "iso_3166_1_alpha_2": "TH",
+        "iso_3166_1_alpha_3": "THA",
+        "iso_3166_1_numeric": "764"
+    },
+    {
+        "c_name": "东帝汶",
+        "e_name": "Timor-Leste",
+        "iso_3166_1_alpha_2": "TL",
+        "iso_3166_1_alpha_3": "TLS",
+        "iso_3166_1_numeric": "626"
+    },
+    {
+        "c_name": "多哥",
+        "e_name": "Togo",
+        "iso_3166_1_alpha_2": "TG",
+        "iso_3166_1_alpha_3": "TGO",
+        "iso_3166_1_numeric": "768"
+    },
+    {
+        "c_name": "托克劳",
+        "e_name": "Tokelau",
+        "iso_3166_1_alpha_2": "TK",
+        "iso_3166_1_alpha_3": "TKL",
+        "iso_3166_1_numeric": "772"
+    },
+    {
+        "c_name": "汤加",
+        "e_name": "Tonga",
+        "iso_3166_1_alpha_2": "TO",
+        "iso_3166_1_alpha_3": "TON",
+        "iso_3166_1_numeric": "776"
+    },
+    {
+        "c_name": "特立尼达和多巴哥",
+        "e_name": "Trinidad and Tobago",
+        "iso_3166_1_alpha_2": "TT",
+        "iso_3166_1_alpha_3": "TTO",
+        "iso_3166_1_numeric": "780"
+    },
+    {
+        "c_name": "突尼斯",
+        "e_name": "Tunisia",
+        "iso_3166_1_alpha_2": "TN",
+        "iso_3166_1_alpha_3": "TUN",
+        "iso_3166_1_numeric": "788"
+    },
+    {
+        "c_name": "土耳其",
+        "e_name": "Turkey",
+        "iso_3166_1_alpha_2": "TR",
+        "iso_3166_1_alpha_3": "TUR",
+        "iso_3166_1_numeric": "792"
+    },
+    {
+        "c_name": "土库曼斯坦",
+        "e_name": "Turkmenistan",
+        "iso_3166_1_alpha_2": "TM",
+        "iso_3166_1_alpha_3": "TKM",
+        "iso_3166_1_numeric": "795"
+    },
+    {
+        "c_name": "特克斯和凯科斯群岛",
+        "e_name": "Turks and Caicos Islands",
+        "iso_3166_1_alpha_2": "TC",
+        "iso_3166_1_alpha_3": "TCA",
+        "iso_3166_1_numeric": "796"
+    },
+    {
+        "c_name": "图瓦卢",
+        "e_name": "Tuvalu",
+        "iso_3166_1_alpha_2": "TV",
+        "iso_3166_1_alpha_3": "TUV",
+        "iso_3166_1_numeric": "798"
+    },
+    {
+        "c_name": "乌干达",
+        "e_name": "Uganda",
+        "iso_3166_1_alpha_2": "UG",
+        "iso_3166_1_alpha_3": "UGA",
+        "iso_3166_1_numeric": "800"
+    },
+    {
+        "c_name": "乌克兰",
+        "e_name": "Ukraine",
+        "iso_3166_1_alpha_2": "UA",
+        "iso_3166_1_alpha_3": "UKR",
+        "iso_3166_1_numeric": "804"
+    },
+    {
+        "c_name": "阿联酋",
+        "e_name": "United Arab Emirates",
+        "iso_3166_1_alpha_2": "AE",
+        "iso_3166_1_alpha_3": "ARE",
+        "iso_3166_1_numeric": "784"
+    },
+    {
+        "c_name": "英国",
+        "e_name": "United Kingdom of Great Britain and Northern Ireland",
+        "iso_3166_1_alpha_2": "GB",
+        "iso_3166_1_alpha_3": "GBR",
+        "iso_3166_1_numeric": "826"
+    },
+    {
+        "c_name": "美国",
+        "e_name": "United States of America",
+        "iso_3166_1_alpha_2": "US",
+        "iso_3166_1_alpha_3": "USA",
+        "iso_3166_1_numeric": "840"
+    },
+    {
+        "c_name": "美国本土外小岛屿",
+        "e_name": "United States Minor Outlying Islands",
+        "iso_3166_1_alpha_2": "UM",
+        "iso_3166_1_alpha_3": "UMI",
+        "iso_3166_1_numeric": "581"
+    },
+    {
+        "c_name": "乌拉圭",
+        "e_name": "Uruguay",
+        "iso_3166_1_alpha_2": "UY",
+        "iso_3166_1_alpha_3": "URY",
+        "iso_3166_1_numeric": "858"
+    },
+    {
+        "c_name": "乌兹别克斯坦",
+        "e_name": "Uzbekistan",
+        "iso_3166_1_alpha_2": "UZ",
+        "iso_3166_1_alpha_3": "UZB",
+        "iso_3166_1_numeric": "860"
+    },
+    {
+        "c_name": "瓦努阿图",
+        "e_name": "Vanuatu",
+        "iso_3166_1_alpha_2": "VU",
+        "iso_3166_1_alpha_3": "VUT",
+        "iso_3166_1_numeric": "548"
+    },
+    {
+        "c_name": "委内瑞拉",
+        "e_name": "Venezuela (Bolivarian Republic of)",
+        "iso_3166_1_alpha_2": "VE",
+        "iso_3166_1_alpha_3": "VEN",
+        "iso_3166_1_numeric": "862"
+    },
+    {
+        "c_name": "越南",
+        "e_name": "Viet Nam",
+        "iso_3166_1_alpha_2": "VN",
+        "iso_3166_1_alpha_3": "VNM",
+        "iso_3166_1_numeric": "704"
+    },
+    {
+        "c_name": "英属维尔京群岛",
+        "e_name": "Virgin Islands (British)",
+        "iso_3166_1_alpha_2": "VG",
+        "iso_3166_1_alpha_3": "VGB",
+        "iso_3166_1_numeric": "092"
+    },
+    {
+        "c_name": "美属维尔京群岛",
+        "e_name": "Virgin Islands (U.S.)",
+        "iso_3166_1_alpha_2": "VI",
+        "iso_3166_1_alpha_3": "VIR",
+        "iso_3166_1_numeric": "850"
+    },
+    {
+        "c_name": "瓦利斯和富图纳",
+        "e_name": "Wallis and Futuna",
+        "iso_3166_1_alpha_2": "WF",
+        "iso_3166_1_alpha_3": "WLF",
+        "iso_3166_1_numeric": "876"
+    },
+    {
+        "c_name": "西撒哈拉",
+        "e_name": "Western Sahara",
+        "iso_3166_1_alpha_2": "EH",
+        "iso_3166_1_alpha_3": "ESH",
+        "iso_3166_1_numeric": "732"
+    },
+    {
+        "c_name": "也门",
+        "e_name": "Yemen",
+        "iso_3166_1_alpha_2": "YE",
+        "iso_3166_1_alpha_3": "YEM",
+        "iso_3166_1_numeric": "887"
+    },
+    {
+        "c_name": "赞比亚",
+        "e_name": "Zambia",
+        "iso_3166_1_alpha_2": "ZM",
+        "iso_3166_1_alpha_3": "ZMB",
+        "iso_3166_1_numeric": "894"
+    },
+    {
+        "c_name": "津巴布韦",
+        "e_name": "Zimbabwe",
+        "iso_3166_1_alpha_2": "ZW",
+        "iso_3166_1_alpha_3": "ZWE",
+        "iso_3166_1_numeric": "716"
+    }
+]
