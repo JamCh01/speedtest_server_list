@@ -8,6 +8,7 @@ import os
 import datetime
 
 THIS_PATH = os.path.dirname(os.path.abspath(__file__))
+SAVE_PATH = os.path.join(THIS_PATH, "../output")
 TODAY = str(datetime.date.today())
 
 
@@ -79,13 +80,17 @@ class ServerCrawler:
 class Export:
     def __init__(self, servers: Iterable, save_path: str = None):
         self.data_frame = pandas.DataFrame(data=servers)
-        self.save_path = save_path or os.path.join(THIS_PATH, "{}".format(TODAY))
+        self.save_path = save_path or SAVE_PATH
+        if not os.path.exists(self.save_path):
+            os.makedirs(self.save_path)
 
     def to_csv(self):
-        self.data_frame.to_csv(f"{self.save_path}.csv")
+        self.data_frame.to_csv(os.path.join(self.save_path, f"{TODAY}.csv"))
 
     def to_json(self):
-        self.data_frame.to_json(f"{self.save_path}.json", orient="records")
+        self.data_frame.to_json(
+            os.path.join(self.save_path, f"{TODAY}.json"), orient="records"
+        )
 
 
 def main():
