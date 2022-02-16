@@ -1,9 +1,14 @@
 import asyncio
 import json
-import os
-from typing import Iterable, List
+from typing import Iterable
 
 import aiohttp
+import pandas
+import os
+import datetime
+
+THIS_PATH = os.path.dirname(os.path.abspath(__file__))
+TODAY = str(datetime.date.today())
 
 
 class ServerCrawler:
@@ -11,7 +16,7 @@ class ServerCrawler:
         self.t = t or 5
         self.r = r or 5
         self.task_queue = asyncio.Queue()
-        self.servers = list()
+        self.servers = []
         self.passed = set()
         self.URL = "https://www.speedtest.net/api/js/servers"
         self.HEADERS = {
@@ -19,7 +24,7 @@ class ServerCrawler:
         }
 
     async def _init_task(self):
-        with open("country.json", "r", encoding="utf8") as f:
+        with open(os.path.join(THIS_PATH, "country.json"), "r", encoding="utf8") as f:
             countries = json.load(f)
         for country in countries:
             self.task_queue.put_nowait((country.get("e_name"), 0))
@@ -57,6 +62,7 @@ class ServerCrawler:
                     servers = await self.fetch(client=client, search=search)
                     filtered_servers = filter(self.__filter, servers)
                     for filtered_server in filtered_servers:
+                        filtered_server["server_id"] = filtered_server.pop("id")
                         self.servers.append(filtered_server)
 
                 except Exception:
@@ -70,11 +76,24 @@ class ServerCrawler:
         return iter(self.servers)
 
 
-def main():
-    sc = ServerCrawler(t=10)
-    servers = sc.start()
-    print(servers)
+class Export:
+    def __init__(self, servers: Iterable, save_path: str = None):
+        self.data_frame = pandas.DataFrame(data=servers)
+        self.save_path = save_path or os.path.join(THIS_PATH, "{}".format(TODAY))
 
+    def to_csv(self):
+        self.data_frame.to_csv(f"{self.save_path}.csv")
+
+    def to_json(self):
+        self.data_frame.to_json(f"{self.save_path}.json", orient="records")
+
+
+def main():
+    sc = ServerCrawler(t=100)
+    servers = sc.start()
+    export = Export(servers=servers)
+    export.to_json()
+    export.to_csv()
 
 
 if __name__ == "__main__":
